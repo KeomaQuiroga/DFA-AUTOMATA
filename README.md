@@ -1,5 +1,5 @@
-# DFA-AUTOMATA
-Simulation of a DFA automata. The program receives inputs from a text document.
+# DFA
+Simulation of a DFA, the program receives inputs from a text document.
 The document *dfa1.txt* have:
 - Automaton states
 - Initial state
